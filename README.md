@@ -2,6 +2,17 @@
 
 A milestone-driven marketplace connecting Clients with vetted Professional Designers in Uganda.
 
+# Problem and Solution
+Problem: Uganda's creative industry faces significant challenges in connecting clients with professional designers. Clients struggle to find vetted, reliable designers, while designers face difficulties in securing fair payment for their work. Traditional freelance platforms lack Uganda-specific payment integration, intellectual property protection, and milestone-based payment systems that build trust between parties.
+
+Solution: ArtConnect.Ug is a secure milestone-driven marketplace that connects Ugandan clients with vetted professional designers. The platform addresses these challenges through:
+•	Escrow-based payment system - Funds are locked in escrow and released incrementally as milestones are approved, ensuring designers get paid and clients get deliverables
+•	Designer vetting process - All designers undergo administrative review before participating, ensuring quality and reliability
+•	Secure IP file lock - Deliverable files are locked until milestone approval, protecting intellectual property
+•	Manufacturing Readiness Review (MRR) - Specialized workflow for industrial and packaging projects requiring manufacturing readiness verification
+•	Simulated MTN Mobile Money integration - USSD-based payment interface familiar to Ugandan users
+•	Role-based access control - Separate interfaces for clients, designers, and administrators with appropriate permissions
+
 ## Quick Start
 
 ```bash
