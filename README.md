@@ -70,17 +70,22 @@ Open your browser and navigate to http://localhost:5173/
 ### Step 4: Open your terminal 
 ### Step 5: Install Dependencies
 bash
+
 npm install
+
 This will install all required packages including React, TypeScript, Vite, Supabase, Zustand, Tailwind CSS, and other dependencies listed in 
 package.json.
 ### Step 6: Run the Development Server
 bash
+
 npm run dev
+
 The application will start and be available at http://localhost:5173/
+
 ### Step 7: Access the Application
 Open your browser and navigate to http://localhost:5173/
 
-## Demo Logins
+## Demo Logins Or you can create your own account and ensure to record your login details. 
 
 On the Auth screen, use the **Demo Quick Login** buttons at the bottom:
 
@@ -143,6 +148,7 @@ Or enter any phone number + OTP code **1234** to register a new account.
 - Supabase (database — schema applied)
 - Lucide React (icons)
 
-OR REGISTER AND LOGIN TO NAVIGATE LIVE PRODUCTION FUNCTIONALITY OF THE APP 
-IF THIS README FILE FAILS REFER TO README2
+License
+This project is developed for academic purposes.
+
 
