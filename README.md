@@ -13,6 +13,56 @@ Solution: ArtConnect.Ug is a secure milestone-driven marketplace that connects U
 •	Simulated MTN Mobile Money integration - USSD-based payment interface familiar to Ugandan users
 •	Role-based access control - Separate interfaces for clients, designers, and administrators with appropriate permissions
 
+
+# Setup Instructions
+
+Prerequisites
+Before you begin, ensure you have the following installed:
+•	Node.js (version 18 or higher)
+•	npm or yarn package manager
+•	Git
+•	A code editor (VS Code recommended)
+•	A Supabase account (for backend services)
+
+Step 1: Clone the Repository 
+bash
+git clone https://github.com/your-username/artconnect-ug.git
+cd artconnect-ug
+
+Step 2: Install Dependencies
+bash
+npm install
+This will install all required packages including React, TypeScript, Vite, Supabase, Zustand, Tailwind CSS, and other dependencies listed in 
+package.json.
+
+Step 3: Run the Development Server
+bash
+npm run dev
+The application will start and be available at http://localhost:5173/
+
+Step 4: Access the Application
+Open your browser and navigate to http://localhost:5173/
+
+
+# Option two
+
+Step 1: Download the zip file from git hub 
+Step 2: Extract this file to directory 
+Step 3: Open your code editor (vs code) and open the project from the extracted directory.
+Step 4: Open your terminal 
+Step 5: Install Dependencies
+bash
+npm install
+This will install all required packages including React, TypeScript, Vite, Supabase, Zustand, Tailwind CSS, and other dependencies listed in 
+package.json.
+Step 6: Run the Development Server
+bash
+npm run dev
+The application will start and be available at http://localhost:5173/
+Step 7: Access the Application
+Open your browser and navigate to http://localhost:5173/
+
+
 ## Quick Start
 
 ```bash
