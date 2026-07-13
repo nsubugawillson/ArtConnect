@@ -11,7 +11,7 @@ npm run dev
 
 Open http://localhost:5173
 
-OR JUST GO TO OUR LIVE HOSTED LINK 
+OR JUST GO TO OUR LIVE HOSTED LINK DIRECT TO VIEW OUR APP https://art-connect-blond.vercel.app/
 
 ## Demo Logins
 
