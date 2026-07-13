@@ -3,7 +3,7 @@
 A milestone-driven marketplace connecting Clients with vetted Professional Designers in Uganda.
 
 # Problem and Solution
-Problem: Uganda's creative industry faces significant challenges in connecting clients with professional designers. Clients struggle to find vetted, reliable designers, while designers face difficulties in securing fair payment for their work. Traditional freelance platforms lack Uganda-specific payment integration, intellectual property protection, and milestone-based payment systems that build trust between parties.
+Problem: Uganda's creative design industry lacks a structured digital marketplace that is secure to manage the full cycle of design-to-fulfilment contracts. Clients struggle to find vetted, reliable designers, while designers face difficulties in securing fair payment for their work. Traditional freelance platforms lack Uganda-specific payment integration, intellectual property protection, and milestone-based payment systems that build trust between parties.
 
 Solution: ArtConnect.Ug is a secure milestone-driven marketplace that connects Ugandan clients with vetted professional designers. The platform addresses these challenges through:
 •	Escrow-based payment system - Funds are locked in escrow and released incrementally as milestones are approved, ensuring designers get paid and clients get deliverables
