@@ -22,7 +22,7 @@ npm run dev
 
 Open http://localhost:5173
 
-OR JUST GO TO OUR LIVE HOSTED LINK DIRECT TO VIEW OUR APP https://art-connect-blond.vercel.app/
+OR JUST GO TO OUR LIVE HOSTED LINK DIRECT TO VIEW OUR APP: For Demonstration version use this link https://artconnectug.vercel.app/ and for pure live functionality use this link https://art-connect-blond.vercel.app/
 
 # Setup Instructions
 
