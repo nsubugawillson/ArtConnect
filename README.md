@@ -13,17 +13,34 @@ Solution: ArtConnect.Ug is a secure milestone-driven marketplace that connects U
 •	Simulated MTN Mobile Money integration - USSD-based payment interface familiar to Ugandan users
 •	Role-based access control - Separate interfaces for clients, designers, and administrators with appropriate permissions
 
+## Quick Start
+
+```bash
+npm install
+npm run dev
+```
+
+Open http://localhost:5173
+
+OR JUST GO TO OUR LIVE HOSTED LINK DIRECT TO VIEW OUR APP https://art-connect-blond.vercel.app/
 
 # Setup Instructions
 
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
+
 •	Node.js (version 18 or higher)
+
 •	npm or yarn package manager
+
 •	Git
+
 •	A code editor (VS Code recommended)
+
 •	A Supabase account (for backend services)
+
+# Option one
 
 ### Step 1: Clone the Repository 
 bash
@@ -62,18 +79,6 @@ npm run dev
 The application will start and be available at http://localhost:5173/
 ### Step 7: Access the Application
 Open your browser and navigate to http://localhost:5173/
-
-
-## Quick Start
-
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:5173
-
-OR JUST GO TO OUR LIVE HOSTED LINK DIRECT TO VIEW OUR APP https://art-connect-blond.vercel.app/
 
 ## Demo Logins
 
